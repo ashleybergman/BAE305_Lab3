@@ -14,6 +14,8 @@ Part 1:
 
 Part 2:
 1. Build a parallel circuit, following the schematic in the lab manual. 
+![parallel circuit](https://user-images.githubusercontent.com/46691767/52983466-43bdf680-33b9-11e9-99df-bf2930bf24a1.jpg)
+
 2. Build the circuit using the simulation software. 
 
 Part 3: 
