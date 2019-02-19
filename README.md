@@ -10,13 +10,17 @@ Breadboard, computer with Partism and TinkerCAD circuit software, DC power suppl
 # Assembly Procedure
 Part 1:
 1. Build a series circuit, following the schematic in the lab manual.
+![series circuit](https://user-images.githubusercontent.com/46691767/52983502-6e0fb400-33b9-11e9-853d-2952176c62e4.jpg)
+
 2. Build the circuit using simulation software.
+![series circuit simulation](https://user-images.githubusercontent.com/46691767/52983508-7831b280-33b9-11e9-954c-fd09265aadcc.jpg)
 
 Part 2:
 1. Build a parallel circuit, following the schematic in the lab manual. 
 ![parallel circuit](https://user-images.githubusercontent.com/46691767/52983466-43bdf680-33b9-11e9-99df-bf2930bf24a1.jpg)
 
 2. Build the circuit using the simulation software. 
+![parallel circuit simulation](https://user-images.githubusercontent.com/46691767/52983519-854ea180-33b9-11e9-89f7-02c1c2fa9004.jpg)
 
 Part 3: 
 1. Determine the correct resistance to place in series with the sensor to yield a voltage output between 0-5V across the sensor using the given sensor that ranges from 0-19.5650K Ohms and a 14.1V input voltage. 
@@ -42,12 +46,17 @@ Part 2:
 
 # Results
 Part 1:
+![current voltage results](https://user-images.githubusercontent.com/46691767/52983530-8e3f7300-33b9-11e9-9b05-077cf2503220.jpg)
 
 Part 2:
+![current results](https://user-images.githubusercontent.com/46691767/52983540-95ff1780-33b9-11e9-8f83-f7c638542cea.jpg)
+
+![voltage results](https://user-images.githubusercontent.com/46691767/52983562-aca56e80-33b9-11e9-8605-287486a02b82.jpg)
 
 The DMMs failed to read the currents so the measured values were left out of the results. Also, the second portion of part 2 would not work correctly since the DC Voltage would only produce 18V.
 
 Part 3: 
+![results](https://user-images.githubusercontent.com/46691767/52983568-b333e600-33b9-11e9-8477-cd236d761fc5.jpg)
 
 A resistance with 35.76 Ohms needs to be put in series with the sensor to yield a voltage between 0-5V across the sensor. 
 If the maximum current for the sensor is 0.4 mA, the sensor will still work. The maximum current for this circuit is 0.39 mA.
